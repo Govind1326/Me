@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #000000 url("../img/macos-monterey-stock-pink-light-layers-5k-8k-7680x7680-5892.jpg")top right no-repeat;
+  background: #000000 url("../img/mountain.jpg")top right no-repeat;
   background-size: cover;
   /* filter: blur(3px); */
   left: 0;

@@ -12,9 +12,9 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #000000 url("../img/mountain.jpg")top right no-repeat;
+  background: #000000 url("../img/mountain.jpg") right no-repeat;
   background-size: cover;
-  /* filter: blur(3px); */
+  filter: blur(3px);
   left: 0;
   right: 0;
   top: 0;
